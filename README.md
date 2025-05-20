@@ -14,9 +14,7 @@ The dataset used for this project is the MNIST dataset, which contains:
 The images are 28x28 pixels and grayscale.
 
 Google Colab File
-The project includes a Google Colab notebook for easy execution. You can access it here:
-
-Handwritten Digit Recognition - Google Colab
+The project includes a Google Colab notebook for easy execution. 
 
 In the Colab notebook, you’ll find sections for:
 
